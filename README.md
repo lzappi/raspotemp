@@ -1,6 +1,6 @@
 # raspotemp
 
-Script to print temperature of CPU, GPU and CPU frequency on Raspberry devices.
+Script to print current temperature of CPU, GPU and CPU frequency on Raspberry devices.
 
 It works on Raspberry model 2 and model 3B+. 
 It probably works on other models too without changes.
