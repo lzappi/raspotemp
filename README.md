@@ -21,3 +21,6 @@ CPU temp=36.4'C
 GPU temp=37.0'C
 FREQ 600 Mhz
 ```
+## Credits
+
+lorenzo.zappi@gmail.com
